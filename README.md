@@ -11,7 +11,7 @@
 
 # Ссылки
 
-Dataset: https://drive.google.com/drive/u/0/folders/13vMEodVCUB9ZJix9zcA_WStJbnUdXda3
+Dataset: https://www.kaggle.com/datasets/frabbisw/facial-age?resource=download
 
 
 Презентация: https://docs.google.com/presentation/d/1wk8i4OmZoafpRjil60dX0FUDW2bHtqImW_e64Y6fc2M/edit#slide=id.g24e689d2add_0_0
